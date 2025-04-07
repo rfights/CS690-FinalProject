@@ -4,7 +4,7 @@ using System.Collections.Generic;
 // This program is a simple console application to manage a family reception.
 // It allows users to manage guest lists, menu items, allergies, venue information, and budget.
 // The program is structured with a main menu and submenus for each functionality.
-// What else can I add?
+
 
 class FamilyReceptionApp
 {
