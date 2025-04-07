@@ -17,38 +17,63 @@ class FamilyReceptionApp
 
     static void Main()
     {
+        int selectedTab = 0;
+        string[] tabs = { "Guest List", "Menu & Allergies", "Venue Info", "Budget", "Exit" };
+
         while (true)
         {
             Console.Clear();
             Console.WriteLine("Family Reception Organizer");
-            Console.WriteLine("1. Manage Guest List");
-            Console.WriteLine("2. Manage Menu and Allergies");
-            Console.WriteLine("3. Set Venue Information");
-            Console.WriteLine("4. Manage Budget");
-            Console.WriteLine("5. Exit");
-            Console.Write("Choose an option: ");
-            string choice = Console.ReadLine();
+            Console.WriteLine();
 
-            switch (choice)
+            // Display tabs
+            for (int i = 0; i < tabs.Length; i++)
             {
-                case "1":
-                    ManageGuestList();
-                    break;
-                case "2":
-                    ManageMenuAndAllergies();
-                    break;
-                case "3":
-                    SetVenueInformation();
-                    break;
-                case "4":
-                    ManageBudget();
-                    break;
-                case "5":
-                    return;
-                default:
-                    Console.WriteLine("Invalid choice. Press Enter to try again.");
-                    Console.ReadLine();
-                    break;
+                if (i == selectedTab)
+                {
+                    Console.ForegroundColor = ConsoleColor.Cyan; // Highlight the selected tab
+                    Console.Write($"[{tabs[i]}] ");
+                    Console.ResetColor();
+                }
+                else
+                {
+                    Console.Write($"{tabs[i]} ");
+                }
+            }
+
+            Console.WriteLine("\n\nUse Left/Right Arrow keys to navigate, Enter to select.");
+
+            // Handle user input for navigation
+            ConsoleKey key = Console.ReadKey(true).Key;
+
+            if (key == ConsoleKey.RightArrow)
+            {
+                selectedTab = (selectedTab + 1) % tabs.Length; // Move to the next tab
+            }
+            else if (key == ConsoleKey.LeftArrow)
+            {
+                selectedTab = (selectedTab - 1 + tabs.Length) % tabs.Length; // Move to the previous tab
+            }
+            else if (key == ConsoleKey.Enter)
+            {
+                // Call the corresponding method based on the selected tab
+                switch (selectedTab)
+                {
+                    case 0:
+                        ManageGuestList();
+                        break;
+                    case 1:
+                        ManageMenuAndAllergies();
+                        break;
+                    case 2:
+                        SetVenueInformation();
+                        break;
+                    case 3:
+                        ManageBudget();
+                        break;
+                    case 4:
+                        return; // Exit the application
+                }
             }
         }
     }
