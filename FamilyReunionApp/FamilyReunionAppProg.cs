@@ -14,11 +14,12 @@ class FamilyReceptionApp
     static string venue = "Not Set";
     static decimal budget = 0;
     static decimal expenses = 0;
+    static List<(string Description, decimal Amount)> expenseList = new List<(string, decimal)>();
 
     static void Main()
     {
         int selectedTab = 0;
-        string[] tabs = { "Guest List", "Menu & Allergies", "Venue Info", "Budget", "Exit" };
+        string[] tabs = { "Guest List", "Menu", "Venue Info", "Budget", "Exit" };
 
         while (true)
         {
@@ -151,25 +152,50 @@ class FamilyReceptionApp
 
     static void ManageBudget()
     {
-        Console.Clear();
-        Console.WriteLine($"Total Budget: ${budget}");
-        Console.WriteLine($"Expenses: ${expenses}");
-        Console.WriteLine($"Remaining Budget: ${budget - expenses}");
-        Console.WriteLine("\n1. Set Budget");
-        Console.WriteLine("2. Add Expense");
-        Console.WriteLine("3. Back");
-        Console.Write("Choose an option: ");
-        string choice = Console.ReadLine();
+        while (true)
+        {
+            Console.Clear();
+            Console.WriteLine($"Total Budget: ${budget}");
+            Console.WriteLine($"Expenses: ${expenses}");
+            Console.WriteLine($"Remaining Budget: ${budget - expenses}");
+            Console.WriteLine("\nExpense List:");
+            Console.WriteLine("-------------------------------------------------");
+            Console.WriteLine("| Description                 | Amount         |");
+            Console.WriteLine("-------------------------------------------------");
 
-        if (choice == "1")
-        {
-            Console.Write("Enter total budget: ");
-            budget = decimal.Parse(Console.ReadLine());
-        }
-        else if (choice == "2")
-        {
-            Console.Write("Enter expense amount: ");
-            expenses += decimal.Parse(Console.ReadLine());
+            // Display all expenses in a table format
+            foreach (var expense in expenseList)
+            {
+                Console.WriteLine($"| {expense.Description.PadRight(25)} | ${expense.Amount.ToString("F2").PadLeft(12)} |");
+            }
+            Console.WriteLine("-------------------------------------------------");
+
+            Console.WriteLine("\n1. Set Budget");
+            Console.WriteLine("2. Add Expense");
+            Console.WriteLine("3. Back");
+            Console.Write("Choose an option: ");
+            string choice = Console.ReadLine();
+
+            if (choice == "1")
+            {
+                Console.Write("Enter total budget: ");
+                budget = decimal.Parse(Console.ReadLine());
+            }
+            else if (choice == "2")
+            {
+                Console.Write("Enter expense description: ");
+                string description = Console.ReadLine();
+                Console.Write("Enter expense amount: ");
+                decimal amount = decimal.Parse(Console.ReadLine());
+
+                // Add the expense to the list and update total expenses
+                expenseList.Add((description, amount));
+                expenses += amount;
+            }
+            else if (choice == "3")
+            {
+                break; // Exit the budget menu
+            }
         }
     }
 }
