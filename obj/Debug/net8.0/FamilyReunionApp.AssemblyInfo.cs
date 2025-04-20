@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FamilyReunionApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e42adf877864e7dd450af7c75bfd83958602440e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d71e0f220197c7e31974699b8cdbdfac15a88389")]
 [assembly: System.Reflection.AssemblyProductAttribute("FamilyReunionApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FamilyReunionApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
