@@ -1,1 +1,1 @@
-This project is by Ramey Fights
+# CS690-FinalProject
