@@ -11,9 +11,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("FamilyReunionApp")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7d8443ccc90fc3226ec28bfeee9d15b1f5fea40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e42adf877864e7dd450af7c75bfd83958602440e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FamilyReunionApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FamilyReunionApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
