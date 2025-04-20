@@ -131,7 +131,12 @@ class FamilyReceptionApp
             {
                 break; // Exit the guest list menu
             }
-            Console.WriteLine("Debug: Entered ManageGuestList()");
+            else
+            {
+                Console.WriteLine("Invalid selection, please choose 1 or 2");
+                Console.WriteLine("Press any key to continue");
+                Console.ReadKey();
+            }
         }
     }
 
@@ -155,7 +160,7 @@ class FamilyReceptionApp
             {
                 Console.Write("Enter dish name: ");
                 string dish = Console.ReadLine();
-                Console.Write("Enter who is bringing it: ");
+                Console.Write("Enter who is bringing the dish: ");
                 string person = Console.ReadLine();
                 menu[dish] = person;
 
@@ -178,15 +183,63 @@ class FamilyReceptionApp
             {
                 break; // Exit the menu and allergies menu
             }
+            else
+            {
+                Console.WriteLine("Invalid selection, please choose 1, 2, or 3");
+                Console.ReadKey();
+            }
+            }
         }
-    }
 
     static void SetVenueInformation()
     {
-        Console.Clear();
-        Console.WriteLine($"Current Venue: {venue}");
-        Console.Write("Enter new venue: ");
-        venue = Console.ReadLine();
+        while (true)
+        {
+            Console.Clear();
+            Console.WriteLine("Venue Information:");
+            Console.WriteLine("-------------------");
+            Console.WriteLine(venue); // Display the current venue information
+            Console.WriteLine("\n1. Set Venue");
+            Console.WriteLine("2. Add Note");
+            Console.WriteLine("3. Back");
+            Console.Write("Choose an option: ");
+            string choice = Console.ReadLine();
+
+            if (choice == "1")
+            {
+                Console.Write("Enter new venue information: ");
+                venue = Console.ReadLine();
+                Console.WriteLine("Venue information updated successfully.");
+                Console.WriteLine("Press any key to continue...");
+                Console.ReadKey();
+            }
+            else if (choice == "2")
+            {
+                Console.Write("Enter a note to add to the venue information (or type 'cancel' to cancel): ");
+                string note = Console.ReadLine();
+                if (note.ToLower() == "cancel")
+                {
+                    Console.WriteLine("Note addition canceled.");
+                }
+                else
+                {
+                    venue += $"\n- {note}";
+                    Console.WriteLine("Note added successfully.");
+                }
+                Console.WriteLine("Press any key to continue...");
+                Console.ReadKey();
+            }
+            else if (choice == "3")
+            {
+                break; // Exit the venue information menu
+            }
+            else
+            {
+                Console.WriteLine("Invalid selection, please choose 1, 2, or 3");
+                Console.WriteLine("Press any key to continue...");
+                Console.ReadKey();
+            }
+        }
     }
 
     static void ManageBudget()
