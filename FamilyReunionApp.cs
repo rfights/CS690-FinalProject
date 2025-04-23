@@ -32,6 +32,7 @@ using System.Collections.Generic;
 // the user will have the ability to view the remaining budget, which will be calculated by subtracting the total expenses from the total budget
 // the ability to add an expense to the budget tracker, which will be added to the list of expenses and the remaining budget will be updated accordingly
 // the ability to view all expenses in a table format, with the description and amount of each expense listed
+
 class FamilyReceptionApp
 {
     static void Main()
