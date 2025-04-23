@@ -38,3 +38,4 @@ C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\obj\Rele
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.pdb
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.genruntimeconfig.cache
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\obj\Release\net8.0\ref\FamilyReunionApp.dll
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.sourcelink.json
