@@ -1,5 +1,0 @@
-C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\bin\Release\net8.0\publish\FamilyReunionApp.exe
-C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\bin\Release\net8.0\publish\FamilyReunionApp.dll
-C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\bin\Release\net8.0\publish\FamilyReunionApp.deps.json
-C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\bin\Release\net8.0\publish\FamilyReunionApp.runtimeconfig.json
-C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\bin\Release\net8.0\publish\FamilyReunionApp.pdb

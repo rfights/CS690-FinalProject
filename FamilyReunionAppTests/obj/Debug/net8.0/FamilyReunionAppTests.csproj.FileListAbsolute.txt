@@ -204,3 +204,6 @@ C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionAppTe
 C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionAppTests\obj\Debug\net8.0\FamilyReunionAppTests.pdb
 C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionAppTests\obj\Debug\net8.0\FamilyReunionAppTests.genruntimeconfig.cache
 C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionAppTests\obj\Debug\net8.0\ref\FamilyReunionAppTests.dll
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\FamilyReunionAppTests\obj\Debug\net8.0\FamilyReunionAppTests.dll
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\FamilyReunionAppTests\obj\Debug\net8.0\refint\FamilyReunionAppTests.dll
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\FamilyReunionAppTests\obj\Debug\net8.0\FamilyReunionAppTests.pdb
