@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FSRl5SHDyTE=",
+  "dgSpecHash": "xbyDgTDWMLo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gamer\\OneDrive\\Documents\\SchoolStuff\\690FinalProject\\FamilyReunionApp\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj",
+  "projectFilePath": "C:\\Users\\gamer\\OneDrive\\Desktop\\version2\\CS690-FinalProject\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gamer\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\gamer\\.nuget\\packages\\microsoft.codecoverage\\17.13.0\\microsoft.codecoverage.17.13.0.nupkg.sha512",

@@ -4,7 +4,7 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyReunionApp", "FamilyReunionApp.csproj", "{90F8F2E8-A25A-9F57-2565-E5DD91750515}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyReunionAppTests", "FamilyReunionAppTests\FamilyReunionAppTests.csproj", "{1FA5D948-FB8F-452C-8E99-3C8958541D41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyReunionAppTests", "../FamilyReunionAppTests\FamilyReunionAppTests.csproj", "{1FA5D948-FB8F-452C-8E99-3C8958541D41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
