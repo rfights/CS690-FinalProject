@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionApp\\FamilyReunionApp.csproj",
+      "projectUniqueName": "C:\\Users\\gamer\\OneDrive\\Documents\\SchoolStuff\\690FinalProject\\FamilyReunionApp\\FamilyReunionApp.csproj",
       "projectName": "FamilyReunionApp",
-      "projectPath": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionApp\\FamilyReunionApp.csproj",
+      "projectPath": "C:\\Users\\gamer\\OneDrive\\Documents\\SchoolStuff\\690FinalProject\\FamilyReunionApp\\FamilyReunionApp.csproj",
       "packagesPath": "C:\\Users\\gamer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionApp\\obj\\",
+      "outputPath": "C:\\Users\\gamer\\OneDrive\\Documents\\SchoolStuff\\690FinalProject\\FamilyReunionApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
