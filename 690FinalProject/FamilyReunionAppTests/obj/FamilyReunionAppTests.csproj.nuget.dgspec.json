@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj": {}
+    "C:\\Users\\gamer\\Desktop\\690FinalProject\\690FinalProject\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj": {
+    "C:\\Users\\gamer\\Desktop\\690FinalProject\\690FinalProject\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj",
+        "projectUniqueName": "C:\\Users\\gamer\\Desktop\\690FinalProject\\690FinalProject\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj",
         "projectName": "FamilyReunionAppTests",
-        "projectPath": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj",
+        "projectPath": "C:\\Users\\gamer\\Desktop\\690FinalProject\\690FinalProject\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj",
         "packagesPath": "C:\\Users\\gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionAppTests\\obj\\",
+        "outputPath": "C:\\Users\\gamer\\Desktop\\690FinalProject\\690FinalProject\\FamilyReunionAppTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionApp\\FamilyReunionApp.csproj": {
-                "projectPath": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionApp\\FamilyReunionApp.csproj"
+              "C:\\Users\\gamer\\Desktop\\690FinalProject\\690FinalProject\\FamilyReunionApp\\FamilyReunionApp.csproj": {
+                "projectPath": "C:\\Users\\gamer\\Desktop\\690FinalProject\\690FinalProject\\FamilyReunionApp\\FamilyReunionApp.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionApp\\FamilyReunionApp.csproj": {
+    "C:\\Users\\gamer\\Desktop\\690FinalProject\\690FinalProject\\FamilyReunionApp\\FamilyReunionApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionApp\\FamilyReunionApp.csproj",
+        "projectUniqueName": "C:\\Users\\gamer\\Desktop\\690FinalProject\\690FinalProject\\FamilyReunionApp\\FamilyReunionApp.csproj",
         "projectName": "FamilyReunionApp",
-        "projectPath": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionApp\\FamilyReunionApp.csproj",
+        "projectPath": "C:\\Users\\gamer\\Desktop\\690FinalProject\\690FinalProject\\FamilyReunionApp\\FamilyReunionApp.csproj",
         "packagesPath": "C:\\Users\\gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionApp\\obj\\",
+        "outputPath": "C:\\Users\\gamer\\Desktop\\690FinalProject\\690FinalProject\\FamilyReunionApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
