@@ -1,0 +1,40 @@
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.exe
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.deps.json
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.runtimeconfig.json
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.dll
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.pdb
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.sourcelink.json
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.dll
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\obj\Release\net8.0\refint\FamilyReunionApp.dll
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.pdb
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionApp\obj\Release\net8.0\ref\FamilyReunionApp.dll
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.exe
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.deps.json
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.runtimeconfig.json
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.dll
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.pdb
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.sourcelink.json
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.dll
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\obj\Release\net8.0\refint\FamilyReunionApp.dll
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.pdb
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Documents\SchoolStuff\690FinalProject\FamilyReunionApp\obj\Release\net8.0\ref\FamilyReunionApp.dll
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.exe
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.deps.json
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.runtimeconfig.json
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.dll
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\bin\Release\net8.0\FamilyReunionApp.pdb
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.csproj.CoreCompileInputs.cache
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.dll
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\obj\Release\net8.0\refint\FamilyReunionApp.dll
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.pdb
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\obj\Release\net8.0\FamilyReunionApp.genruntimeconfig.cache
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionApp\obj\Release\net8.0\ref\FamilyReunionApp.dll
