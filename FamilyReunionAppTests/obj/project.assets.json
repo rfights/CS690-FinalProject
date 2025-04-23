@@ -924,8 +924,8 @@
     },
     "FamilyReunionApp/1.0.0": {
       "type": "project",
-      "path": "../FamilyReunionApp/FamilyReunionApp.csproj",
-      "msbuildProject": "../FamilyReunionApp/FamilyReunionApp.csproj"
+      "path": "../FamilyReunionApp.csproj",
+      "msbuildProject": "../FamilyReunionApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -943,11 +943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj",
+      "projectUniqueName": "C:\\Users\\gamer\\OneDrive\\Documents\\SchoolStuff\\690FinalProject\\FamilyReunionApp\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj",
       "projectName": "FamilyReunionAppTests",
-      "projectPath": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj",
+      "projectPath": "C:\\Users\\gamer\\OneDrive\\Documents\\SchoolStuff\\690FinalProject\\FamilyReunionApp\\FamilyReunionAppTests\\FamilyReunionAppTests.csproj",
       "packagesPath": "C:\\Users\\gamer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionAppTests\\obj\\",
+      "outputPath": "C:\\Users\\gamer\\OneDrive\\Documents\\SchoolStuff\\690FinalProject\\FamilyReunionApp\\FamilyReunionAppTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -962,8 +962,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionApp\\FamilyReunionApp.csproj": {
-              "projectPath": "C:\\Users\\gamer\\OneDrive\\Documents\\School Stuff\\690 Final Project\\FamilyReunionApp\\FamilyReunionApp.csproj"
+            "C:\\Users\\gamer\\OneDrive\\Documents\\SchoolStuff\\690FinalProject\\FamilyReunionApp\\FamilyReunionApp.csproj": {
+              "projectPath": "C:\\Users\\gamer\\OneDrive\\Documents\\SchoolStuff\\690FinalProject\\FamilyReunionApp\\FamilyReunionApp.csproj"
             }
           }
         }
