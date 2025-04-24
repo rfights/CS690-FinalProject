@@ -101,7 +101,6 @@ C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionAp
 C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionAppTests\bin\Debug\net8.0\FamilyReunionApp.exe
 C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionAppTests\bin\Debug\net8.0\FamilyReunionApp.dll
 C:\Users\gamer\OneDrive\Documents\School Stuff\690 Final Project\FamilyReunionAppTests\bin\Debug\net8.0\FamilyReunionApp.pdb
-C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_FamilyReunionAppTests
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\CoverletSourceRootsMapping_FamilyReunionAppTests
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\testhost.dll
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\xunit.abstractions.dll
@@ -109,7 +108,6 @@ C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\FamilyReunionApp.runtimeconfig.json
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\FamilyReunionApp.exe
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\testhost.exe
-C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\FamilyReunionAppTests.deps.json
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\FamilyReunionAppTests.runtimeconfig.json
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\FamilyReunionAppTests.dll
@@ -205,3 +203,7 @@ C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\obj
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\obj\Debug\net8.0\FamilyReunionAppTests.pdb
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\obj\Debug\net8.0\FamilyReunionAppTests.genruntimeconfig.cache
 C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\obj\Debug\net8.0\ref\FamilyReunionAppTests.dll
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\gamer\Desktop\690FinalProject\690FinalProject\FamilyReunionAppTests\bin\Debug\net8.0\NuGet.Frameworks.dll
