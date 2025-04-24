@@ -31,3 +31,19 @@ namespace FamilyReunionAppTests
         }
     }
 }
+
+namespace FamilyReunionApp
+{
+    public class MenuManager // Add 'public'
+    {
+        // Class implementation
+    }
+}
+
+namespace FamilyReunionApp
+{
+    public class BudgetManager // Add 'public'
+    {
+        // Class implementation
+    }
+}

@@ -31,3 +31,11 @@ namespace FamilyReunionAppTests
         }
     }
 }
+
+namespace FamilyReunionApp
+{
+    public class GuestManager // Add 'public'
+    {
+        // Class implementation
+    }
+}

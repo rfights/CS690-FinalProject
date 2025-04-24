@@ -1,6 +1,36 @@
 using System;
+using System.Collections.Generic;
 using Xunit;
 using FamilyReunionApp;
+
+namespace FamilyReunionApp
+{
+    public class VenueManager
+    {
+        private string venue = "Not Set";
+        private List<string> notes = new List<string>();
+
+        public void SetVenue(string newVenue)
+        {
+            venue = newVenue;
+        }
+
+        public string GetVenue()
+        {
+            return venue;
+        }
+
+        public void AddNoteToVenue(string note)
+        {
+            notes.Add(note);
+        }
+
+        public List<string> GetVenueNotes()
+        {
+            return new List<string>(notes);
+        }
+    }
+}
 
 namespace FamilyReunionAppTests
 {
